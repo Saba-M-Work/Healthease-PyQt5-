@@ -26,7 +26,7 @@ A high-fidelity patient management desktop application built with **Python** and
    git clone 
  
 
-2.**Install Dependencies:**
+2. **Install Dependencies:**
 pip install PyQt5
 Run the application:
 
