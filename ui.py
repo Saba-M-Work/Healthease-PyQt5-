@@ -620,7 +620,7 @@ class HealtheaseApp(QMainWindow):
             self.results_layout.addWidget(card)
 
     # ==================== APPOINTMENT DIALOG ====================
-        # ==================== "WHICH TIME WORKS BEST?" STYLE UI ====================
+    ==
     def show_appointment_dialog(self, doctor_name):
         self.selected_doctor = doctor_name
 
